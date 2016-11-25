@@ -1,0 +1,84 @@
+/*Reset code*/
+*{
+	margin:0 auto;
+	padding:0;
+}
+html, body{
+	margin: 0 auto;
+	padding:0;
+}
+/*End Reset Code*/
+/*Common Code */
+.float_left{
+	float:left;
+}
+.float_right{
+	float:right;
+}
+.max_width{
+	max-width:1167px;
+}
+.width_100_per{
+	width:100%;
+}
+/* Common Code End */
+.header{
+	width:100%;
+	background:#222222;
+	color:#fff;
+}
+.top_menu{
+	padding: 14px 0px;
+}
+.top_menu_date{
+	width:50%;
+	margin:0;
+	padding:0;
+}
+.top_ment_social_icon{
+	width:50%;
+	margin:0;
+	padding:0;
+}
+.top_ment_social_icon ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	overflow:hidden;
+	margin-top:-22px;
+}
+.top_ment_social_icon ul li{
+	float:left;
+}
+.top_ment_social_icon ul li a{
+	display:inline-block;
+	text-align:center;
+	padding:0px 10px;
+	text-decoration:none;
+	color:#fff;
+}
+.top_ment_social_icon img{
+	height:30px;
+	width:30px;
+}
+.top_logo{
+	
+}
+.main_menu{
+	
+}
+.brc_new{
+	
+}
+.feature{
+	
+}
+.news_fst_sec{
+	
+}
+.news_snd_sec{
+	
+}
+.footer{
+	
+}
